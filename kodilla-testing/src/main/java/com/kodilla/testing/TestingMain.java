@@ -6,4 +6,3 @@ package com.kodilla.testing;
         }
     }
 
-git ad
